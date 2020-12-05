@@ -10,7 +10,7 @@ Project based in UI interface [Interface](https://www.instagram.com/p/CIAnec3AGX
 
 **Image Project Finish! iOS**
 
-![alt text](https://github.com/nelson-sepulveda/hotels-mobile-rn/blob/master/finish-ios.jpeg?raw=true)
+![alt text](https://github.com/nelson-sepulveda/hotels-mobile-rn/blob/master/finish-ios.jpg?raw=true)
 
 **Install Project**
 
