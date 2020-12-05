@@ -6,7 +6,7 @@ Project based in UI interface [Interface](https://www.instagram.com/p/CIAnec3AGX
 
 **Image Project Finish! Android**
 
-![alt text](https://github.com/nelson-sepulveda/hotels-mobile-rn/blob/master/finish-android.jpeg?raw=true)
+![alt text](https://github.com/nelson-sepulveda/hotels-mobile-rn/blob/master/finish-android.png?raw=true)
 
 **Image Project Finish! iOS**
 
